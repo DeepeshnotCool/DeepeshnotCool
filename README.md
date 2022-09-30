@@ -32,3 +32,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepeshnotcool&show_icons=true&locale=en" alt="deepeshnotcool" /></p>
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepeshnotcool&show_icons=true&locale=en" alt="deepeshnotcool" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepeshnotcool&" alt="deepeshnotcool" /></p>
+
+
